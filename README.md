@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Meu nome de usuário no GitHub é **@SEU_USUARIO_GITHUB**.
+Meu nome de usuário no GitHub é Felipe-0310.
 
 🎓 Sou aluno do curso de **Análise de Dados** no **Senac**.
 
